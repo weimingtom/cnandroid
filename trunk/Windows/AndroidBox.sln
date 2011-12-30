@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidBox", "AndroidBox\AndroidBox.csproj", "{62A872C0-BA0E-4CE7-892F-72AEC3DBA008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpBox", "UpBox\UpBox.csproj", "{0BFE4434-D7AA-494E-8DE5-403F661B2E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidBox.API", "AndroidBox.API\AndroidBox.API.csproj", "{DE55138E-A118-4474-86FB-22AC5B451DEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidBox.DevGuide", "AndroidBox.DevGuide\AndroidBox.DevGuide.csproj", "{A655D0CD-81E0-483F-949C-1AB761580696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidBox.Common", "AndroidBox.Common\AndroidBox.Common.csproj", "{2F0C5CAB-D22A-49FC-BE16-38D59AA67AA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62A872C0-BA0E-4CE7-892F-72AEC3DBA008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A872C0-BA0E-4CE7-892F-72AEC3DBA008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A872C0-BA0E-4CE7-892F-72AEC3DBA008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A872C0-BA0E-4CE7-892F-72AEC3DBA008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BFE4434-D7AA-494E-8DE5-403F661B2E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFE4434-D7AA-494E-8DE5-403F661B2E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFE4434-D7AA-494E-8DE5-403F661B2E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFE4434-D7AA-494E-8DE5-403F661B2E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE55138E-A118-4474-86FB-22AC5B451DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE55138E-A118-4474-86FB-22AC5B451DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE55138E-A118-4474-86FB-22AC5B451DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE55138E-A118-4474-86FB-22AC5B451DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A655D0CD-81E0-483F-949C-1AB761580696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A655D0CD-81E0-483F-949C-1AB761580696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A655D0CD-81E0-483F-949C-1AB761580696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A655D0CD-81E0-483F-949C-1AB761580696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F0C5CAB-D22A-49FC-BE16-38D59AA67AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0C5CAB-D22A-49FC-BE16-38D59AA67AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0C5CAB-D22A-49FC-BE16-38D59AA67AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0C5CAB-D22A-49FC-BE16-38D59AA67AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
